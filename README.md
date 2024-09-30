@@ -1,8 +1,13 @@
 # blog_app
 
-A new Flutter project.
+A simple Blog App using Flutter and Hive.
 
-## Getting Started
+## Output
+
+
+https://github.com/user-attachments/assets/2b6ab2aa-545e-4e39-a74d-c9851a95c205
+
+
 
 This project is a starting point for a Flutter application.
 
